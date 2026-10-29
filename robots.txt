@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://loonaautomation.github.io/Loona-Expense-App/sitemap.xml
+Sitemap: https://loonaautomation.github.io/loona-expense-app/sitemap.xml
